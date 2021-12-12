@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lemonade_app</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="lemon_cut">Tap on tree to cut a lemon!</string>
+    <string name="lemon_squeeze">Tap until the lemon is squeezed!</string>
+    <string name="lemon_drink">Here\'s your lemonade</string>
+    <string name="lemon_restart">Tap Glass to again make the lemonade</string>
+</resources>
